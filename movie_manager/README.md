@@ -37,4 +37,4 @@ This project provides a lightweight **text-based movie manager** that helps user
 1. Clone this repository or copy the code into a Python file, e.g. `movie_manager.py`.
 2. Run the script:
    ```bash
-   python movie_manager.py
+   python app.py
