@@ -14,11 +14,17 @@ This script should:
 
 ## EXAMPLE 🧾
 If the user inputs:
-  Name: Priya
-  Age: 22
-  City: Jaipur
-  Profession: Software Developer
-  Hobby: playing guitar
+
+Name: Priya
+
+Age: 22
+
+City: Jaipur
+
+Profession: Software Developer
+
+Hobby: playing guitar
 
 Your script might output:
-  "Hello! My name is Priya. I'm 22 years old and live in Jaipur. I work as a Software Developer and I absolutely enjoy playing guitar in my free time. Nice to meet you!"
+  
+"Hello! My name is Priya. I'm 22 years old and live in Jaipur. I work as a Software Developer and I absolutely enjoy playing guitar in my free time. Nice to meet you!"
