@@ -78,49 +78,47 @@ python app.py
 │    → Executes cleanup code                      │
 │    → Generator terminates                       │
 └─────────────────────────────────────────────────┘
-```
 
-
+---
 ### 🎓 Learning Outcomes
-
 This project teaches:
 
-1. ✅ **Generator Functions** - Creating pausable functions
-2. ✅ **Coroutines** - Two-way communication with generators
-3. ✅ **State Management** - Maintaining data between calls
-4. ✅ **Exception Handling** - Managing generator lifecycle
-5. ✅ **Interactive Programming** - Building responsive CLI applications
-6. ✅ **Control Flow** - Using yield for program flow control
+1. ✅ **Generator Functions** — Creating pausable functions  
+2. ✅ **Coroutines** — Two-way communication with generators  
+3. ✅ **State Management** — Maintaining data between calls  
+4. ✅ **Exception Handling** — Managing generator lifecycle  
+5. ✅ **Interactive Programming** — Building responsive CLI applications  
+6. ✅ **Control Flow** — Using `yield` for program flow control  
 
 ---
 
 ### 📄 License
-
 This project is open source and available for educational purposes.
 
 ---
 
 ### 👨‍💻 Author
-
 Created as an educational demonstration of Python generators and coroutines.
 
 ---
 
 ### 🤝 Contributing
-
 Feel free to fork this project and add your own features:
-- More drink options
-- Payment system
-- Inventory management
-- Custom drink builder
-- Save order history to file
+
+- More drink options  
+- Payment system  
+- Inventory management  
+- Custom drink builder  
+- Save order history to file  
 
 ---
 
 ### ⭐ Support
-
 If you found this educational project helpful, please give it a star! ⭐
 
+---
+
+**Happy Coding! ☕️🐍**
 ---
 
 **Happy Coding! ☕️🐍**
